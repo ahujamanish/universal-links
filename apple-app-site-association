@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "2GVJ6JS822.com.Fueled.RiteAid",
-                "paths": ["", "/pharmacy/services/my-pharmacy", "/pharmacy/services/prescription-refills", "/pharmacy/services/prescription-refills/online-prescription-refills", "/pharmacy/services/prescription-refills/transfer-prescriptions", "/savings/weekly-ad", "/store-locator", "/wellness-with-plenti/load2card"]
+                "paths": ["/", "/pharmacy/services/my-pharmacy", "/pharmacy/services/prescription-refills", "/pharmacy/services/prescription-refills/online-prescription-refills", "/pharmacy/services/prescription-refills/transfer-prescriptions", "/savings/weekly-ad", "/store-locator", "/wellness-with-plenti/load2card"]
             }
         ]
     }
