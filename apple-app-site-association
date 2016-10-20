@@ -1,11 +1,11 @@
 {
-	"applinks": {
-		"apps": [],
-		"details": [
-			{
-				"appID": "2GVJ6JS822.com.Fueled.RiteAid",
-				"paths": ["*"]
-			}
-		]
-	}
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "2GVJ6JS822.com.Fueled.RiteAid",
+      "paths": ["*"]
+    }
+    ]
+  }
 }
